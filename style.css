@@ -70,7 +70,7 @@ nav {
      display: flex;
      justify-content: center;
      align-items: flex-start;
-     height: 58vh;
+     height: 62.3vh;
      padding-top: 17vh;
  }
  
@@ -79,7 +79,7 @@ nav {
  }
  
  #logo img {
-     width: 272px;
+     width: 350px;
  }
  
  #buscador {
